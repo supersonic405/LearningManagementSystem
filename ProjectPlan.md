@@ -5,12 +5,12 @@ i = in progress c = complete
 ### Week 3
 - [ c ] Create project repository on GitHub
 - [ i ] Create project structure in intellij and push
-- [ i ] Add link to list of indie projects in student repo.
-- [ i ] Complete Problem Statement
+- [ c ] Add link to list of indie projects in student repo.
+- [ c ] Complete Problem Statement
 - [ i ] Determine possible Web Services or APIs to use
-- [ i ] List technologies, versions and how they will be used
+- [ c ] List technologies, versions and how they will be used
 - [ i ] Weekly journal entry
-- [ i ] Write project plan
+- [ c ] Write project plan
 - [ i ] Document application flow in text and pictures - I'll use wireframes that have clickable links for the screen design. Use Balsamiq? 
 - [ i ] Triple-check for Checkpoint 1: Problem statement, project plan, screen design and time log pushed to GitHub. 
 

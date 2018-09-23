@@ -4,36 +4,38 @@ ToDo; add .png files to wireframes/1-HomePage.png... and the others... 2,3,4,5,6
 
 ### Home Page
 
-![Home Page](wireframes/1-Reports.png)
+![Home Page](wireframes/HomePage.html)
 
-### Add New Student Page
+### Add Student Page
 
-![Add New Report](wireframes/2-AddStudent.png)
+![Add New Report](wireframes/AddStudent.html)
 
 ### Add Class Page
 
-![Add New Trail](wireframes/3-AddClass.png)
+![Add New Trail](wireframes/3ddClass.html)
 
 ### Add Course Page
 
-![Add New Trail](wireframes/3-AddCourse.png)
+![Add New Trail](wireframes/3AddCourse.html)
 
-### Class Completions Search Page
+### Course Completions Search Page
 
-![View Trail Info](wireframes/4-ClassCompletionSearch.png)
+![View Trail Info](wireframes/CourseCompletionSearch.html)
 
-### Class Completions List Page
+### Course Completions List Page
 
-![View Trail Info](wireframes/4-ClassCompletionList.png)
+![View Trail Info](wireframes/CourseCompletionList.html)
 
-### Dialog for Sign In
+### Sign In
 
-![Sign In Dialog](wireframes/6-Sign-In.png)
+![Sign In Dialog](wireframes/SignIn.html)
 
-### Dialog for Sign Up
+### Sign Up
 
-![Sign up Dialog](wireframes/7-SignUp.png)
+![Sign up Dialog](wireframes/SignUp.html)
 
-### About Page
+### About TechKnow
 
-![About Page](wireframes/8-About.png)
+![About Page](wireframes/AboutTechKnow.html)
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)

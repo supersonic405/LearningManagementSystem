@@ -2,7 +2,7 @@
 
 This repository is used for my Madison College's Enterprise Java Class.
 
-###Problem Statement
+### Problem Statement
 
 For several months, student in the AmFam TechKnow University needed to call in to the program administrator to find out what classes they completed in order to determine which classed they needed to enroll in to complete their certificate.
 

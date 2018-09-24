@@ -4,7 +4,7 @@ i = in progress c = complete
 
 ### Week 3
 - [ c ] Create project repository on GitHub
-- [ i ] Create project structure in intellij and push
+- [ i ] Create project structure in intellij, add basic Web functionality that was in week 1 project and push
 - [ c ] Add link to list of indie projects in student repo.
 - [ c ] Complete Problem Statement
 - [ i ] Determine possible Web Services or APIs to use
@@ -25,7 +25,6 @@ i = in progress c = complete
 - [ ] Set up logging
 - [ ] Create class uml diagram
 - [ ] Prepare for Week 5 peer design/code review
-
 
 ### Week 5
 

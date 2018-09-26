@@ -7,7 +7,7 @@
 <body>
 <h1>Course Completion Search</h1>
 
-<h3>You can enter a login-id to search for all the courses you have completed.</h3>
+<h3>Plesae enter a login-id to search for all the courses that have been completed.</h3>
 
 <table>
     <tr>

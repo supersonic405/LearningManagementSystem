@@ -5,6 +5,6 @@
     <title>AddCourse</title>
 </head>
 <body>
-Add course goes here...
+<h1>Add course</h1>
 </body>
 </html>

@@ -5,6 +5,5 @@
     <title>SignIn</title>
 </head>
 <body>
-Sign in goes here...
-</body>
+<h1>Sign in</h1></body>
 </html>

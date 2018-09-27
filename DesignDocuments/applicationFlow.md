@@ -21,13 +21,11 @@ pages.  JDBCRealm used for authentication (users, users_roles, and roles table).
 
 ### Home Page
 
-1. Static page - html only? 
-1. Consider making contact info configurable.
+1. Static page - html only
 
 ### About TKU
 
-1. Static page - html only? 
-1. Consider making contact info configurable.
+1. Static page - html only
 
 ### Course Completion Search / Report
 

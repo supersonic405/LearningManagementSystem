@@ -6,8 +6,8 @@
 | 9/10/2018|Version Control (Git), Logging (Log4J), Unit Testing (JUnit) | 12+ | Got new laptop working with VM. |
 | 9/17/2018|Custom Tags | 12+ | Things are going better |
 | 9/24/2018|Data Access Objects (DAOs), Hibernate | 12+ | I nearly caught-up all the way. I plan to get and stay 1 or more weeks ahead of schedule. |
-| 10/1/2018|Hibernate |  | |
-| 10/8/2018|Deployment to AWS, Individual Project Reviews |  | |
+| 10/1/2018|Hibernate | 12+ | Keeping on schedule. Glad my Singleton presentation went well.|
+| 10/8/2018|Deployment to AWS, Individual Project Reviews | 12+ | Working on indie table design|
 | 10/15/2018|Security, Authentication |  | |
 | 10/22/2018|Web Services Intro, SOAP Services |  | |
 | 10/29/2018|RESTFul Web Services |  | |

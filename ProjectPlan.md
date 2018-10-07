@@ -7,7 +7,7 @@ i = in progress c = complete
 - [ i ] Create project structure in intellij, add basic Web functionality that was in week 1 project and push
 - [ c ] Add link to list of indie projects in student repo.
 - [ c ] Complete Problem Statement
-- [ i ] Determine possible Web Services or APIs to use
+- [ c ] Determine possible Web Services or APIs to use
 - [ c ] List technologies, versions and how they will be used
 - [ i ] Weekly journal entry
 - [ c ] Write project plan
@@ -15,16 +15,16 @@ i = in progress c = complete
 - [ i ] Triple-check for Checkpoint 1: Problem statement, project plan, screen design and time log pushed to GitHub. 
 
 ### Week 4
-- [ ] Complete database design
-- [ ] Create the database and user table
-- [ ] Create the user entity class and annotate for hibernate
-- [ ] Create user dao
-- [ ] Create the test database
-- [ ] Create user dao unit tests
-- [ ] Weekly journal entry
-- [ ] Set up logging
-- [ ] Create class uml diagram
-- [ ] Prepare for Week 5 peer design/code review
+- [ i ] Complete database design
+- [ i ] Create the database and user table
+- [ i ] Create the user entity class and annotate for hibernate
+- [ i ] Create user dao
+- [ i ] Create the test database
+- [ i ] Create user dao unit tests
+- [ i ] Weekly journal entry
+- [ i ] Set up logging
+- [ i ] Create class uml diagram
+- [ i ] Prepare for Week 5 peer design/code review
 
 ### Week 5
 

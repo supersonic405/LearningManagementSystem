@@ -9,33 +9,33 @@ i = in progress c = complete
 - [ c ] Complete Problem Statement
 - [ c ] Determine possible Web Services or APIs to use
 - [ c ] List technologies, versions and how they will be used
-- [ i ] Weekly journal entry
+- [ c ] Weekly journal entry
 - [ c ] Write project plan
 - [ i ] Document application flow in text and pictures - I'll use wireframes that have clickable links for the screen design. Use Balsamiq? 
-- [ i ] Triple-check for Checkpoint 1: Problem statement, project plan, screen design and time log pushed to GitHub. 
+- [ c ] Triple-check for Checkpoint 1: Problem statement, project plan, screen design and time log pushed to GitHub. 
 
 ### Week 4
 - [ i ] Complete database design
-- [ i ] Create the database and user table
+- [ c ] Create the database and user table
 - [ i ] Create the user entity class and annotate for hibernate
 - [ i ] Create user dao
 - [ i ] Create the test database
 - [ i ] Create user dao unit tests
-- [ i ] Weekly journal entry
+- [ c ] Weekly journal entry
 - [ i ] Set up logging
 - [ i ] Create class uml diagram
 - [ i ] Prepare for Week 5 peer design/code review
 
 ### Week 5
 
-- [ ] Create the template for all jsps using bootstrap or materialize
-- [ ] Weekly journal entry
-- [ ] Add the role table
-- [ ] Add the role entity
-- [ ] Create the role dao
-- [ ] Create the role dao unit tests
-- [ ] Add a jsp to display user and role
-- [ ] Add jsp to add a user
+- [ i ] Create the template for all jsps using bootstrap or materialize
+- [ i ] Weekly journal entry
+- [ i ] Add the role table
+- [ i ] Add the role entity
+- [ i ] Create the role dao
+- [ i ] Create the role dao unit tests
+- [ i ] Add a jsp to display user and role
+- [ i ] Add jsp to add a user
 
 ### Week 6
 

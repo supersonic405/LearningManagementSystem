@@ -16,7 +16,7 @@ i = in progress c = complete
 
 ### Week 4
 - [ i ] Complete database design
-- [ c ] Create the database and user table
+- [ c ] Create the LMS database and user table and course table and poulated both tables
 - [ i ] Create the user entity class and annotate for hibernate
 - [ i ] Create user dao
 - [ i ] Create the test database

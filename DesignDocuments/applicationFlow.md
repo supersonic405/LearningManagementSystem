@@ -37,12 +37,12 @@ pages.  JDBCRealm used for authentication (users, users_roles, and roles table).
 1. Servlet sends list back to course completion reports jsp.
 1. Course completion reports jsp displays the reports.
 
-### Add Change or Delete Course
+### Course Completion Add, Change or Delete
 
 1. Option only available to logged in users with proper role
-1. User adds, changes or deletes Course details
-1. Details are sent to Add Course servlet
-1. Servlet creates Course object
+1. User adds, changes or deletes Course Completion details
+1. Details are sent to Course Completion servlet
+1. Servlet creates Course Completion object
 1. Servlet sends object to dao
-1. Dao adds, changes or deletes Course to the database
-1. Servlet sends confirmation to Course page that Course has been added.
+1. Dao adds, changes or deletes Course Completion to the database
+1. Servlet sends confirmation to Course Completion page that Course has been added, changed or deleted.

@@ -1,4 +1,4 @@
-DROP table course;
+DROP table courseCompletion;
 CREATE TABLE course (
     id INT AUTO_INCREMENT PRIMARY KEY,
     course_name VARCHAR(25) NULL,

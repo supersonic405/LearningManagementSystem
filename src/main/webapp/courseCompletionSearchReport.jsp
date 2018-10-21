@@ -1,4 +1,4 @@
-<%-- depricate this page and use results.jsp --%>
+<%-- TODO - depricate this page and use results.jsp --%>
 
 <%@include file="head.jsp"%>
 <html lang="en">

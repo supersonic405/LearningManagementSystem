@@ -11,17 +11,16 @@
 
     <h3>If you are a student, please select one of the following links:</h3>
         <ul>
-            <li><a href="SignIn.jsp"> Sign in</a></li>
-            <li><a href="SignIn.jsp">Sign up</a></li>
-            <li><a href="SignIn.jsp">Course Completion Search</a></li>
+            <li><a href="login.jsp"> Login</a></li>
+            <li><a href="signUp.jsp">Sign up</a></li>
+            <li><a href="search.jsp">Course Completion Search</a></li>
         </ul>
     <h3>If you are a program administrator, please select one of the following links:</h3>
         <ul>
-            <li><a href="SignIn.jsp">Sigin in</a></li>
-            <li><a href="SignIn.jsp">Sign up</a></li>
-            <li><a href="SignIn.jsp">Add Class</a></li>
-            <li><a href="SignIn.jsp">Add Course</a></li>
-            <li><a href="SignIn.jsp">Course Completion Search</a></li>
+            <li><a href="login.jsp">login</a></li>
+            <li><a href="signUp.jsp">Sign up</a></li>
+            <li><a href="addCourse.jsp.jsp">Add Course</a></li>
+            <li><a href="search.jsp">Course Completion Search</a></li>
         </ul>
     </body>
 </html>

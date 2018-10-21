@@ -1,4 +1,4 @@
-<%@include file="head.jsp"%>
+<%--<%@include file="head.jsp"%>--%>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,6 +8,8 @@
     <H1>TechKnow University</H1>
 
     <h2>Welcome to the TechKnow University. A place for technical learning at work.</h2>
+
+    <h2>Here is more information<a href="aboutTKU.jsp">about TKU.</a></h2>
 
     <h3>If you are a student, please select one of the following links:</h3>
         <ul>

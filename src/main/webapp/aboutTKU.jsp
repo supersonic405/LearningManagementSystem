@@ -23,5 +23,7 @@
       <li>Respect</li>
     </ul>
 
+  <h3>Back to the the<a href="homePage.jsp">Home Page.</a></h3>
+
 </body>
 </html>

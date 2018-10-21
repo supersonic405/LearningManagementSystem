@@ -6,7 +6,7 @@ This repository is used for my Madison College's Enterprise Java Class.
 
 For several months, students in the AmFam TechKnow University needed to call the program administrator to find out what courses they completed in order to determine which courses they needed to enroll in to complete their certificate.
 
-A Learning Management System (LMS) was needed to access student data through a Web interface. An access database was created to store student and course data. At the end of each semester, I used the XML Spy tool to join the tables and create a flat XML file that contained course completion data. I then created a JavaScript page that parsed through the XML file and allowed students to generate a list of the courses they completed.
+A Learning Management System (LMS) was needed to access student data through a Web interface. An access database was created to store student and course data. At the end of each semester, I used the XML Spy tool to join the tables and create a flat XML file that contained course completion data. I then created a JavaScript page that parsed through the XML file and allowed students to generate a list of the courses they completed. The list included these fields; Student_ID, Course_Name, Student_Status, Start_Date and Instructor.
 
 My goal for this project is to covert the old LMS into a new LMS that applies what I learned in the Enterprise Java Class
 

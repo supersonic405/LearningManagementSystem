@@ -29,8 +29,8 @@ i = in progress c = complete
 ### Week 5
 
 - [ i ] Create the template for all jsps using bootstrap or materialize
-- [ i ] Weekly journal entry
-- [ i ] Add the role table
+- [ c ] Weekly journal entry
+- [ c ] Add the role table
 - [ i ] Add the role entity
 - [ i ] Create the role dao
 - [ i ] Create the role dao unit tests

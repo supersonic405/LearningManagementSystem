@@ -19,7 +19,7 @@ is signed in already).
 pages.  JDBCRealm used for authentication (users, users_roles, and roles table).
 1. If authentication fails, show error message/page.
 
-### Home Page
+### Home Page (aka Index Page)
 
 1. Static page - html only
 
@@ -37,12 +37,12 @@ pages.  JDBCRealm used for authentication (users, users_roles, and roles table).
 1. Servlet sends list back to course completion reports jsp.
 1. Course completion reports jsp displays the reports.
 
-### Add Course
+### Add Change or Delete Course
 
 1. Option only available to logged in users with proper role
-1. User enters Course details
+1. User adds, changes or deletes Course details
 1. Details are sent to Add Course servlet
 1. Servlet creates Course object
 1. Servlet sends object to dao
-1. Dao adds Course to the database
+1. Dao adds, changes or deletes Course to the database
 1. Servlet sends confirmation to Course page that Course has been added.

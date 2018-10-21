@@ -10,16 +10,7 @@
         <input type="text" class="form-control" id="searchTerm" name="searchTerm" aria-describedby="searchTermHelp" placeholder="Enter last name">
     </div>
     <button type="submit" name="submit" value="search" class="btn btn-primary">Search</button>
+    <button type="submit" name="submit" value="viewAll" class="btn btn-primary">View all users</button>
 </form>
-</body>
-</html>
-
-
-<%--Branch autho-demo-- TODO change above as needed>
-<%@include file="head.jsp"%>
-<html>
-<body>
-<h2>User Display Exercise - Week 1</h2>
-<a href="search.jsp">Click here to search for users (admin only)</a>
 </body>
 </html>

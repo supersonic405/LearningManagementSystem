@@ -37,16 +37,8 @@ pages.  JDBCRealm used for authentication (users, users_roles, and roles table).
 1. Servlet sends list back to course completion reports jsp.
 1. Course completion reports jsp displays the reports.
 
-### Add Class
-1. Option only available to logged in users with proper role
-1. User enters class details
-1. Details are sent to Add Class servlet
-1. Servlet creates Class object
-1. Servlet sends object to dao
-1. Dao adds Class to the database
-1. Servlet sends confirmation to Class page that Class has been added.
-
 ### Add Course
+
 1. Option only available to logged in users with proper role
 1. User enters Course details
 1. Details are sent to Add Course servlet

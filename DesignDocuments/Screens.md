@@ -4,7 +4,7 @@ ToDo; add .png files to wireframes/1-HomePage.png... and the others... 2,3,4,5,6
 
 ### Home Page
 
-![Home Page](wireframes/HomePage.jsp)
+![Home Page](../src/main/webapp/HomePage.jsp)
 
 ### Add Class Page
 
@@ -16,15 +16,15 @@ ToDo; add .png files to wireframes/1-HomePage.png... and the others... 2,3,4,5,6
 
 ### Course Completions Search / Report Page
 
-![View Trail Info](wireframes/CourseCompletionSearchReport.jsp)
+![View Trail Info](../src/main/webapp/CourseCompletionSearchReport.jsp)
 
 ### Sign In
 
-![Sign In Dialog](wireframes/SignIn.jsp)
+![Sign In Dialog](../src/main/webapp/SignIn.jsp)
 
 ### Sign Up
 
-![Sign up Dialog](wireframes/SignUp.jsp)
+![Sign up Dialog](../src/main/webapp/SignUp.jsp)
 
 ### About TechKnow
 

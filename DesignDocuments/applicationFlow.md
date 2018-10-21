@@ -29,20 +29,20 @@ pages.  JDBCRealm used for authentication (users, users_roles, and roles table).
 
 ### Course Completion Search / Report
 
-1. Page sends a request to view course completion servlet along with criteria 
+1. Page sends a request to view Course Completion Search servlet along with criteria 
 (logonid).
 1. Servlet uses the TKU dao to select student completed courses according to criteria
 1. Dao performs select and creates report objects from results.
 1. Dao returns list of report matching criteria to servlet.
-1. Servlet sends list back to course completion reports jsp.
-1. Course completion reports jsp displays the reports.
+1. Servlet sends list back to Course Completion Report jsp.
+1. The Course Completion Report jsp displays the report.
 
 ### Course Completion Add, Change or Delete
 
 1. Option only available to logged in users with proper role
 1. User adds, changes or deletes Course Completion details
-1. Details are sent to Course Completion servlet
-1. Servlet creates Course Completion object
+1. Details are sent to Course Completion Update servlet
+1. Servlet creates Course Completion Update object
 1. Servlet sends object to dao
-1. Dao adds, changes or deletes Course Completion to the database
-1. Servlet sends confirmation to Course Completion page that Course has been added, changed or deleted.
+1. Dao adds, changes or deletes a Course Completion to the database
+1. Servlet sends confirmation to Course Completion page that Course Completion has been added, changed or deleted.

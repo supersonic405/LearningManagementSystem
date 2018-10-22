@@ -48,7 +48,7 @@ My goal for this project is to covert the old LMS into a new LMS that applies wh
 
 * [Screen Design](DesignDocuments/Screens.md)
 * [Application Flow](DesignDocuments/applicationFlow.md)
-* [Database Design](DesignDocuments/databaseDiagram.png)
+* [Database Design](DesignDocuments/databaseDiagram.PNG)
 
 ### [Project Plan](ProjectPlan.md)
 
